@@ -1,0 +1,7 @@
+@import "_variables";
+@import "_mixins";
+
+
+h1{
+  @include sexyTitle();
+}
